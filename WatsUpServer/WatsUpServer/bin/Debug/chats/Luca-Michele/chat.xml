@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMessage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Message>
+    <MsgType>txt</MsgType>
+    <Content>Sasso</Content>
+    <DateOfMsg>2025-03-28T11:48:15.587517+01:00</DateOfMsg>
+    <Sender>Luca</Sender>
+  </Message>
+</ArrayOfMessage>

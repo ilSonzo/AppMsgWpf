@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Username>Luca</Username>
+    <Chats>
+      <string>Luca-Marco</string>
+      <string>Luca-Michele</string>
+      <string>Luca-Giacomo</string>
+    </Chats>
+  </User>
+  <User>
+    <Username>Marco</Username>
+    <Chats>
+      <string>Luca-Marco</string>
+    </Chats>
+  </User>
+  <User>
+    <Username>Michele</Username>
+    <Chats>
+      <string>Luca-Michele</string>
+    </Chats>
+  </User>
+  <User>
+    <Username>Giacomo</Username>
+    <Chats>
+      <string>Luca-Giacomo</string>
+    </Chats>
+  </User>
+</ArrayOfUser>

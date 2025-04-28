@@ -1,0 +1,6 @@
+\\spazio\profili_studenti$\5diinf12\documents\visual studio 2012\Projects\WatsUpServer\WatsUpServer\bin\Debug\WatsUpServer.exe.config
+\\spazio\profili_studenti$\5diinf12\documents\visual studio 2012\Projects\WatsUpServer\WatsUpServer\bin\Debug\WatsUpServer.exe
+\\spazio\profili_studenti$\5diinf12\documents\visual studio 2012\Projects\WatsUpServer\WatsUpServer\bin\Debug\WatsUpServer.pdb
+\\spazio\profili_studenti$\5diinf12\documents\visual studio 2012\Projects\WatsUpServer\WatsUpServer\obj\Debug\WatsUpServer.csprojResolveAssemblyReference.cache
+\\spazio\profili_studenti$\5diinf12\documents\visual studio 2012\Projects\WatsUpServer\WatsUpServer\obj\Debug\WatsUpServer.exe
+\\spazio\profili_studenti$\5diinf12\documents\visual studio 2012\Projects\WatsUpServer\WatsUpServer\obj\Debug\WatsUpServer.pdb
